@@ -1,0 +1,41 @@
+.universal {
+    padding: 10%;
+    background-color: rgba(152, 255, 207, 0.973);
+}
+
+.title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4vw;
+    font-size: 4vh;
+}
+
+.subtitle {
+    margin-top: 0%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1vw;
+    font-size: 1vh;
+}
+
+.theatre {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+    font-size: 2vh;
+}
+
+.electronics {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+    font-size: 2vh;
+}
+
+.art {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+    font-size: 2vh;
+}
+
+.github {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+    font-size: 2vh;
+}
