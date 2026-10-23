@@ -20,14 +20,14 @@
 .buttonaboutme {
     text-align: center;
     float: left;
-    width: 33%;
+    width: 40%;
     background-color: #c261fff8;
 }
 
 .buttonmedia {
     text-align: center;
     float: left;
-    width: 33%;
+    width: 30%;
     background-color: #5aff7ef8;
 
 }
@@ -35,7 +35,7 @@
 .buttonprojects {
     text-align: center;
     float: left;
-    width: 33%;
+    width: 30%;
     background-color: #ff5454f8;
 
 }
@@ -52,38 +52,11 @@
     text-align: center;
     background-color: aqua;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 1vw;
-    font-size: 1vh;
+    font-size: 1.5vw;
+    font-size: 1.5vh;
 }
 
-.electronics {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 2vw;
-    font-size: 2vh;
-    background-color: rgba(183, 0, 255, 0.973);
-    color: rgba(238, 255, 0, 0.973);
-}
-
-.theatre {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 2vw;
-    font-size: 2vh;
-    background-color: rgba(44, 190, 0, 0.973);
-    color: rgba(190, 38, 0, 0.973);
-}
-
-.art {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 2vw;
-    font-size: 2vh;
-    background-color: rgba(233, 255, 152, 0.973);
-    color: rgba(248, 49, 255, 0.973);
-}
-
-.github {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 2vw;
-    font-size: 2vh;
-    color: rgba(152, 255, 207, 0.973);
-    background-color: black;
+a {
+    background-color: rgba(240, 248, 255, 0.575);
+    color: rgba(0, 0, 0, 0.692);
 }
